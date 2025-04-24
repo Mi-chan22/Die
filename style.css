@@ -1,0 +1,22 @@
+body {
+    background-color: grey;
+    text-align: center;
+}
+h1{
+    color: tomato;
+    font-size: 75px;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    color: whitesmoke;
+    font-size: 20px;
+}
+.dice{
+    display: inline-block;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
